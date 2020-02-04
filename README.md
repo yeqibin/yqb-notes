@@ -1,3 +1,3 @@
 # yqb-notes
-Recording Everything Learned.
-$$\alpha^2+\beta^2=\theta^2$$
+个人学习笔记，尽可能记录所学知识.
+
