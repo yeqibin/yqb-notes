@@ -10,3 +10,4 @@
 
 - [ ] ***The Innovator's Dilemma***, Clayton M. Christensen
 - [ ] ***Unconventional Success: A Fundamental Approach to Personal Investment***, David F. Swensen
+- [ ] ***A Manual for Writers of Research Papers, Theses, and Dissertations***, 9 ed: K.L. Turabian, et al. University of Chicago Press, Chicago; London, 2018.
