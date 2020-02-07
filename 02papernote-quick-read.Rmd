@@ -1,0 +1,21 @@
+---
+output: html_document
+bibliography: ./common/bibfile.bib  
+csl: ./common/elsevier-with-titles.csl
+link-citations: true
+title: 钢领域研究论文速览
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 2020/02
+
+### 核废料固化体界面的自我加速腐蚀[@guo2020]
+
+2020/2/7
+
+存储核废料容器的不锈钢与玻璃固化体和陶瓷固化体界面会发生严重的局部腐蚀。这种腐蚀会影响核废料存储容器服役寿命。但是在目前的安全评估中并未考虑到这种腐蚀情况。需要挑选更兼容的核废料固化体材料以优化核废料存储仓库性能。
+
+## 参考文献

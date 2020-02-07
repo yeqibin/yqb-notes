@@ -6,7 +6,8 @@ $$
 \sigma_{y}=\sigma_{0}+k_{y} \cdot d^{-1 / 2}
 $$
 
-2.DBTT
+2. DBTT
+   
 The ductile-to-brittle transition temperature (DBTT) is defined as the temperature for 50% cleavage on the fracture surfaces of the Charpy impact samples.
 
 $$

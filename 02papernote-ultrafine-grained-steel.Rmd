@@ -1,7 +1,7 @@
 ---
 output: html_document
-bibliography: ../common/bibfile.bib  
-csl: /Users/yqb/Zotero/styles/acta-materialia.csl
+bibliography: ./common/bibfile.bib  
+csl: ./common/elsevier-with-titles.csl
 link-citations: true
 ---
 ## Literature note on ultrafine-grained ferrite (UFF) steels
