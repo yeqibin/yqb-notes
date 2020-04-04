@@ -4,6 +4,8 @@
 
 - [ ] ***The Craft of Research***，4th ed. W.C. Booth, G.G. Colomb, J.M. Williams, J. Bizup, W.T. FitzGerald, University of Chicago Press, Chicago, 2016.
 
+  [note](./01booknote-the-craft-of-research.md)
+
 ## 待读书单
 
 - [ ] ***The Innovator's Dilemma***, Clayton M. Christensen
