@@ -1,2 +1,3 @@
 - [[introduction]]
+- @Introduction to Modern Statistics
 -
