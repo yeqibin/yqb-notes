@@ -1,4 +1,1 @@
 - [[Jul 1st, 2021]]  Introduction to Modern Statistics
--
-- @Introduction to Modern Statistics
-- #introduction
