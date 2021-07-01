@@ -1,1 +1,2 @@
 - [[Jul 1st, 2021]]  Introduction to Modern Statistics
+- ((60dd4d16-1a91-437e-9b32-514308283c33))
